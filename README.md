@@ -94,7 +94,7 @@ All models were trained using an 80/20 train-test split.
 
 ##  Results
 
-### 🏆 Best Performing Model  
+###  Best Performing Model  
 **Random Forest Regressor (Top 3 Features)**
 
 | Metric | Value |
